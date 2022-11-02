@@ -4,13 +4,13 @@ table#tlayout {
     background: white;
 }
 html {
-  background-color: #ffffff;
+  background-color: #eeeeee;
 }
 
 body {
   font-family: Georgia, serif;
   color: #000;
-  background-color: #ffffff;
+  background-color: #eeeeee;
   text-align:left; /* for IE */
   margin-top: 20px;
   margin-bottom: 10px;
