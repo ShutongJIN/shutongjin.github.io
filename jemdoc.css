@@ -253,7 +253,8 @@ div.codeblock, div.infoblock {
 
 div.blocktitle {
 	font-weight: bold;
-	color: #cd7b62;
+/* 	color: #cd7b62; */
+	color: #ffffff;
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
@@ -264,7 +265,8 @@ div.blockcontent {
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+/* 	background: #ffffee; */
+	background: #ffffff;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
@@ -284,7 +286,8 @@ div.infoblock p + p {
 }
 
 div.codeblock > div.blockcontent {
-	background: #f6f6f6;
+/* 	background: #f6f6f6; */
+	background: #ffffff;
 }
 
 span.pycommand {
