@@ -4,12 +4,12 @@ table#tlayout {
     background: white;
 }
 html {
-  background-color: #ffffff;
+  background-color: #eeeeee;
 }
 
 body {
   font-family: Georgia, serif;
-  color: #ffffff;
+  color: #000;
   background-color: #ffffff;
   text-align:left; /* for IE */
   margin-top: 20px;
@@ -25,8 +25,8 @@ body {
 }
 
 #layout-menu {
-	background: #ffffff;
-	border: 1px solid #ffffff;
+	background: #f6f6f6;
+	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
@@ -38,7 +38,7 @@ body {
 }
 
 #layout-menu td {
-	background: #ffffff;
+	background: #f4f4f4;
     vertical-align: top;
 }
 
@@ -59,7 +59,7 @@ body {
 
 
 tt {
-    background: #ffffff;
+    background: #ffffdd;
 }
 
 pre, tt {
@@ -73,12 +73,12 @@ a, a > tt {
 }
 
 a:hover {
-	border-bottom: 1px white dotted;
+	border-bottom: 1px gray dotted;
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
 	color: #022b6d;
-	border-bottom: 1px white solid;
+	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
 	color: #527bbd;
@@ -89,7 +89,7 @@ a:hover {
 }
 
 div.menu-category {
-	border-bottom: 1px solid white;
+	border-bottom: 1px solid gray;
 	margin-top: 0.8em;
 	padding-top: 0.2em;
 	padding-bottom: 0.1em;
@@ -104,7 +104,7 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	border-bottom: 3px double white;
+	border-bottom: 3px double gray;
 }
 
 /* Reduce space if we begin the page with a title. */
@@ -257,7 +257,7 @@ div.blocktitle {
 }
 
 div.blockcontent {
-	border: 1px solid white;
+	border: 1px solid silver;
 	padding: 0.3em 0.5em;
 }
 
@@ -357,7 +357,7 @@ td {
     padding-left: 0.5em;
     padding-right: 0.5em;
     text-align: center;
-    border: 1px solid white;
+    border: 1px solid gray;
 }
 
 table + table {
