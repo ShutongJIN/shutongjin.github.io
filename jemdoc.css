@@ -129,7 +129,6 @@ strong {
 
 
 h1, h2, h3 {
-	color: #000000;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -143,15 +142,18 @@ h1 {
 }
 
 h2 {
+	color: #000000;
 	padding-top: 0.8em;
 	font-size: 125%;
 }
 
-h2 + h3 {
+
+h2 + h3 {    
     padding-top: 0.2em;
 }
 
 h3 {
+	color: #527bbd;
 	font-size: 110%;
 	border-bottom: none;
 }
