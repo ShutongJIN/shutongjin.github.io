@@ -257,7 +257,7 @@ div.blocktitle {
 }
 
 div.blockcontent {
-	border: 1px solid silver;
+	border: 1px solid white;
 	padding: 0.3em 0.5em;
 }
 
@@ -357,7 +357,7 @@ td {
     padding-left: 0.5em;
     padding-right: 0.5em;
     text-align: center;
-    border: 1px solid gray;
+    border: 1px solid white;
 }
 
 table + table {
