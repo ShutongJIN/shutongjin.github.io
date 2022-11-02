@@ -38,7 +38,7 @@ body {
 }
 
 #layout-menu td {
-	background: #f4f4f4;
+	background: #ffffff;
     vertical-align: top;
 }
 
@@ -59,7 +59,7 @@ body {
 
 
 tt {
-    background: #ffffdd;
+    background: #ffffff;
 }
 
 pre, tt {
@@ -357,7 +357,7 @@ td {
     padding-left: 0.5em;
     padding-right: 0.5em;
     text-align: center;
-    border: 1px solid gray;
+    border: 1px solid white;
 }
 
 table + table {
