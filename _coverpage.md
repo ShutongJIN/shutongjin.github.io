@@ -1,1 +1,1 @@
-Wuhan University
+KTH Royal Institute of Technology
